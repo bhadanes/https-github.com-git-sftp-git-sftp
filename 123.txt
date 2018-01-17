@@ -1,0 +1,7 @@
+C:/Users/bhadanes/AppData/Local/Programs/Git
+
+
+cd /c/"Program Files"/Git
+git clone https://github.com/git-ftp/git-ftp git-ftp.git
+cd git-ftp.git && chmod +x git-ftp
+cp /c/"Program Files"/Git/git-ftp.git/git-ftp /c/"Program Files"/Git/bin/git-ftp
